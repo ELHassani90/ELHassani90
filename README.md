@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ELHassani90
 - 👀 I’m interested in Data scince and Web dev "Java ee/Angular"
-- 🌱 I’m currently learning Java ee and Angular
+- 🌱 I’m currently learning Java EE, Angular and Power Bi as well 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
